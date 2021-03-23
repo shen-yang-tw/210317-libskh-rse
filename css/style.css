@@ -308,6 +308,11 @@ ol.listDecimalRow.badge>li:before {
 /* End Uikit Style
 ---------------------------------------------------- */
 
+/* 2021-3-23 */
+.index .bg_img .uk-grid>:nth-child(1) .bg_primary.uk-overlay-panel, .index .bg_img .uk-grid>:nth-child(2) .bg_primary.uk-overlay-panel {
+  background-color: #dd5b78 !important;
+}
+/* /2021-3-23 */
 
 /* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ End of Style */
 
