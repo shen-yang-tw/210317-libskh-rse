@@ -1862,6 +1862,9 @@ footer a {
   .container_responsive {
     max-width: 90%;
   }
+  .container_responsive_s {
+    max-width: 1220px;
+  }
 
   .page .searchBar[data-uk-sticky].uk-active {
     left: calc(5% + 25px);
